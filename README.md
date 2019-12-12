@@ -20,8 +20,8 @@
 ## Table of Contents
 
 - [Functionality](#Functionality)
-    - [Registration](#typo3-extension-repository)
-      - The user will register for the website with a email and password.
+    - [Registration/Login](#typo3-extension-repository)
+      - The user will register and login to the website with a email and password.
     - [Login](#typo3-extension-repository)
       - Users will login to the site and username/passwords will be autehenticated and encrpyted with bcrypt and passport.
     - [Profile Page](#typo3-extension-repository)
