@@ -1,6 +1,6 @@
 # The Navigator
 
-# Developers
+## Developers
 
 * Chelsea Jackson- Front End
 * Devon Martens- Front End
