@@ -2,10 +2,10 @@
 
 ## Developers
 
-* Chelsea Jackson- Front End
-* Devon Martens- Front End
-* Michal Terranova- Back End
-* Kyle Daniels- Back End
+* :woman:Chelsea Jackson- Front End
+* :woman:Devon Martens- Front End
+* :woman:Michal Terranova- Back End
+* :man:Kyle Daniels- Back End
 
 ⭐️ Star us on GitHub — it helps!
 
