@@ -1,6 +1,6 @@
 # The Navigator
 
-## :floppy_disk:Developers
+## :floppy_disk: Developers
 
 * :woman:Chelsea Jackson- Front End
 * :woman:Devon Martens- Front End
