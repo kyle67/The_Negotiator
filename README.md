@@ -45,6 +45,8 @@
  - [Database](#Packages)
     - [MySQL workbench](#typo3-extension-repository)
       - MySQL Workbench is a visual database design tool that integrates SQL development, administration, database design, creation and maintenance into a single integrated development environment for the MySQL database system.
+      
+      ![image](https://user-images.githubusercontent.com/40472408/70741186-bd2c2a00-1ce8-11ea-8ea3-c2aece44f7a2.png)
     
     
 
