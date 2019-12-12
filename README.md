@@ -21,9 +21,13 @@
 
 - [Functionality](#Functionality)
     - [Registration](#typo3-extension-repository)
+      - The user will register for the website with a email and password.
     - [Login](#typo3-extension-repository)
-    - [Quotes](#typo3-extension-repository)
-    - [](#typo3-extension-repository)
+      - Users will login to the site and username/passwords will be autehenticated and encrpyted with bcrypt and passport.
+    - [Profile Page](#typo3-extension-repository)
+      - The profile page will post to the with the dealers or agents profile and contact information. 
+    - [Insurance](#typo3-extension-repository)
+      - 
     
 - [Packages](#Packages)
     - [Node.js](#typo3-extension-repository)
