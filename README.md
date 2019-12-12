@@ -32,6 +32,7 @@
       - Sequelize is a promise-based ORM for Node.js. It has dozens of cool features like synchronization, association, and validation. It also has support for PostgreSQL, MySQL, MariaDB, SQLite, and MSSQL.
      
     - [Bcrypt](#typo3-extension-repository)
+      - Bcrypt is a password hashing function. Besides incorporating a salt to protect against rainbow table attacks, bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power.
     - [Passport](#typo3-extension-repository)
     
     ![image](https://user-images.githubusercontent.com/40472408/70691211-86bdc300-1c86-11ea-8254-867dfea07491.png)
