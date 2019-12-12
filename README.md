@@ -1,6 +1,6 @@
-# The Navigator    
+# The Navigator 
 
-<div class = "pull-right"> https://user-images.githubusercontent.com/40472408/70683408-4ce1c200-1c70-11ea-9b09-94184ca9f1f7.png</div>
+
 
 
 ## :floppy_disk: Developers
