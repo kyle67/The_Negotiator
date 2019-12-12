@@ -1,11 +1,11 @@
 # The Navigator
 
-#Developers
+# Developers
 
-Chelsea Jackson- Front End
-Devon Martens- Front End
-Michal Terranova- Back End
-Kyle Daniels- Back End
+* Chelsea Jackson- Front End
+* Devon Martens- Front End
+* Michal Terranova- Back End
+* Kyle Daniels- Back End
 
 ⭐️ Star us on GitHub — it helps!
 
