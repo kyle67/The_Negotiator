@@ -34,6 +34,7 @@
     - [Bcrypt](#typo3-extension-repository)
       - Bcrypt is a password hashing function. Besides incorporating a salt to protect against rainbow table attacks, bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power.
     - [Passport](#typo3-extension-repository)
+      - Passport is authentication middleware for Node. js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
     
     ![image](https://user-images.githubusercontent.com/40472408/70691211-86bdc300-1c86-11ea-8254-867dfea07491.png)
     
