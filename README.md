@@ -1,4 +1,4 @@
-# <center> The Navigator </center>
+#  The Navigator
 
 ![image](https://user-images.githubusercontent.com/40472408/70683408-4ce1c200-1c70-11ea-9b09-94184ca9f1f7.png)
 
@@ -17,6 +17,27 @@
 
 ![image](https://user-images.githubusercontent.com/40472408/70688760-7d315c80-1c80-11ea-819f-c37ac597ac52.png)
 
-# Table of Contents
+## Table of Contents
+
+- [Functionality](#Functionality)
+    - [Registration](#typo3-extension-repository)
+    - [Login](#typo3-extension-repository)
+    - [Quotes](#typo3-extension-repository)
+    - [](#typo3-extension-repository)
+    
+- [Packages](#Packages)
+    - [Node.js](#typo3-extension-repository)
+    - [Sequelize](#typo3-extension-repository)
+    - [Bcrypt](#typo3-extension-repository)
+    - [Passport](#typo3-extension-repository)
+    
+ - [Database](#Packages)
+    - [MySQL](#typo3-extension-repository)
+    
+    
+
+
+
+ 
 
 
