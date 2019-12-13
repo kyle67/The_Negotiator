@@ -8,7 +8,7 @@
 * :computer:Chelsea Jackson- Front End
 * :computer:Devon Martens- Front End
 * :computer:Michal Terranova- Back End
-* :computer:Kyle Daniels- Back End
+* :developer:Kyle Daniels- Back End
 
 ⭐️ Star us on GitHub — it helps!
 
