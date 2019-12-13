@@ -3,12 +3,12 @@
 ![image](https://user-images.githubusercontent.com/40472408/70683408-4ce1c200-1c70-11ea-9b09-94184ca9f1f7.png)
 
 
-## :floppy_disk: Developers
+## :computer: Developers
 
-* :woman:Chelsea Jackson- Front End
-* :woman:Devon Martens- Front End
-* :woman:Michal Terranova- Back End
-* :man:Kyle Daniels- Back End
+* :computer:Chelsea Jackson- Front End
+* :computer:Devon Martens- Front End
+* :computer:Michal Terranova- Back End
+* :computer:Kyle Daniels- Back End
 
 ⭐️ Star us on GitHub — it helps!
 
