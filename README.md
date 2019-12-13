@@ -5,10 +5,10 @@
 
 ## :computer: Developers
 
-* :computer:Chelsea Jackson- Front End
-* :computer:Devon Martens- Front End
-* :computer:Michal Terranova- Back End
-* :computer:Kyle Daniels- Back End
+* :woman_mechanic: Chelsea Jackson- Front End
+* :woman_office_worker: Devon Martens- Front End
+* :woman_office_worker: Michal Terranova- Back End
+*  :man_teacher:Kyle Daniels- Back End
 
 ⭐️ Star us on GitHub — it helps!
 
